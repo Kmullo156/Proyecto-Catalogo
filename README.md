@@ -11,5 +11,5 @@ https://www.figma.com/file/C3pbxXdndIkJaBhs6m5E8U/PROYECTO-PNUD?node-id=0%3A1&t=
 
 Link deTablero en Trello:
 https://trello.com/invite/b/KKtASwKP/ATTIf9b3f831d1beb7f5a9919f5219b1b64dF624BFC2/proyecto
-![image](https://user-images.githubusercontent.com/56984950/220773590-0f34e634-3971-4dae-b214-1a0b2c3867a6.png)
+
 
