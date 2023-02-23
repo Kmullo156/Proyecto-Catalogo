@@ -219,6 +219,7 @@ form {
 /**/
 .titulo-categoria{
     margin-bottom: 5%;
+    padding: 2%;
 }
 .categorias{
     display: grid;
@@ -275,7 +276,7 @@ form {
     justify-content: center;
 }
 .categoria-img{
-    width: 40%;
+    width: 90%;
 }
 .titulo-productos{
     margin-top: 5%;
